@@ -1,0 +1,9 @@
+name: lucky_can
+version: 0.1.0
+
+authors:
+  - Håkan Nylén <hakan@dun.se>
+
+crystal: 0.33.0
+
+license: MIT
